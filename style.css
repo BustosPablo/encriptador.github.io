@@ -87,6 +87,7 @@ body{
 	background: #D8DFE8;
 	border-radius: 24px;
 	display: none;
+	cursor: pointer;
 }
 
 .derecha{
